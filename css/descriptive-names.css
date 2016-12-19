@@ -1,0 +1,40 @@
+// eCommerce CSS for wood working shop
+
+body {
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 22px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 18px;
+}
+
+header {
+	padding: 20px 0;
+}
+
+header a.logo {
+	font-size: 20px;
+	font-weight: 700;
+}
+
+// all products
+.products {
+	padding: 20px 0 0 0;
+}
+
+// single product
+.one-thing {
+	border: 1px solid #eee;
+}
+
+.product-caption {
+	color: #eee;
+}
