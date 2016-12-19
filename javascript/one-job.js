@@ -36,13 +36,13 @@ const showPromotionItem = (promoItem, itemOrdered) => {
 	console.log(`You would love a ${promoItem.name} with your ${itemOrdered.name}`);
 
 	// show promo item price
-	let price = promoItem.price * promoItem.discount;
-	console.log(`Price of ${item.name} is $${price}`);
+	let price = promoItem.price - (promoItem.price * promoItem.discount);
+	console.log(`Price of ${promoItem.name} is $${promoItem.price}`);
 }
 
 const addItemToCart = (item, promoItem) => {
 	// calculate price
-	let price = item.price * item.discount;
+	let price = item.price - (item.price * item.discount);
 	console.log(`Price of ${item.name} is $${price}`);
 
 	// add to cart
