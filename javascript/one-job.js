@@ -37,13 +37,13 @@ const showPromotionItem = (promoItem, itemOrdered) => {
 
 	// show promo item price
 	let price = promoItem.price * promoItem.discount;
-	console.log(`Price of ${item.name} is ${price}`);
+	console.log(`Price of ${item.name} is $${price}`);
 }
 
 const addItemToCart = (item, promoItem) => {
 	// calculate price
 	let price = item.price * item.discount;
-	console.log(`Price of ${item.name} is ${price}`);
+	console.log(`Price of ${item.name} is $${price}`);
 
 	// add to cart
 	let startCartSize = cart.length;
