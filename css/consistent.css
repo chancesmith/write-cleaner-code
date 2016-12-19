@@ -1,0 +1,40 @@
+// CSS for manufacturing plant admin panel
+//...
+
+.eventmodule {
+	width: 100%;
+	height: auto; }
+.eventmodule .calendar-controls {width: 100%;height: auto; }
+.eventmodule .calendar-controls .monthyear-jumper {
+margin-top: 10px; }
+.eventmodule .calendar-controls .monthyear-jumper select {
+	width: 26%; 
+}
+.eventmodule .calendar-controls .monthyear-jumper .jumper-button {
+	width: 6%;
+	margin-bottom: 0px;
+}
+.eventmodule .calendar-panel {
+	width: 100%;
+	height: auto; 
+}
+.eventmodule .calendar-panel .events-calendar { width: 100%; height: auto; }
+
+.eventmodule .list-panel .event-listing-table .event-listing-odd-row .event-listing-event-column, .eventmodule .list-panel .event-listing-table .event-listing-odd-row .event-listing-time-column, .eventmodule .list-panel .event-listing-table .event-listing-odd-row .event-listing-location-column { background-color: #EAF2C6; }
+.eventmodules,
+.list-panels,
+.event-listing-tables {
+	margin-bottom: 20px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #dedede;
+	padding-bottom: 10px; 
+}.modules,.lists,.event-listings {
+	margin-bottom: 20px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #dedede;
+	padding-bottom: 10px; 
+}
+
+//...
