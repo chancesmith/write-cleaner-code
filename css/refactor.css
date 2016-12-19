@@ -1,0 +1,33 @@
+// CSS for White House website
+
+body {
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 22px;
+}
+
+// president's daily schedule
+.schedule-list {
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	padding-right: 5px;
+}
+
+.appointments {
+	font-weight: bold;
+	font-size: 15px;
+	font-style: italic;
+	font-family: arial,sans-serif;
+	line-height: 20px;
+  color: red;
+}
+
+.appointment {
+	background-color: #ccc;
+	background-image: url(images/bg.gif);
+	background-repeat: no-repeat;
+	background-position: top right;
+}
