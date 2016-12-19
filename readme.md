@@ -14,7 +14,7 @@ In each folder there are examples messy code. Some are simple. Just give it a sh
 - Keep it readable, not clever.
 - Be consistent with your coding style.
 
-You're make a lot of employers and developers sooooo happy.
+You'll make a lot of employers and developers sooooo happy.
 
 ##Want to contribute?
 Teach the work how to write cleaner code. Fork me and add more examples.
