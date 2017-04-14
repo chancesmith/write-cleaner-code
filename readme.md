@@ -19,5 +19,5 @@ You'll make a lot of employers and developers sooooo happy.
 ## Want to contribute?
 Teach the work how to write cleaner code. Fork me and add more examples. Keep the examples quick. Each example should take more than 2-4 minutes to complete. One folder per coding language. No more than five examples (rules of clean code) per language.
 
-## Want more insperation?
+## Want more inspiration?
 https://github.com/ryanmcdermott/clean-code-javascript
